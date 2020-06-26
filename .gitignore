@@ -1,4 +1,8 @@
-# ignore project folders
+# Ignore project folders
 obj/
 bin/
 *.txt
+
+# Ignore IDE folders
+.vs
+.idea
